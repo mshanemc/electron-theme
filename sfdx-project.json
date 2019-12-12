@@ -1,22 +1,22 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "electronBranding",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.3.0.NEXT"
-        },
-        {
-            "path": "implementation"
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "45.0",
-    "packageAliases": {
-        "electronBranding": "0Ho6A000000k9ddSAA",
-        "electronBranding@0.2.0-1": "04t6A000002zgJ0QAI",
-        "electronBranding@0.3.0-1": "04t6A000002zgKSQAY"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "electronBranding",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.3.0.NEXT"
+    },
+    {
+      "path": "implementation"
     }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "48.0",
+  "packageAliases": {
+    "electronBranding": "0Ho6A000000k9ddSAA",
+    "electronBranding@0.2.0-1": "04t6A000002zgJ0QAI",
+    "electronBranding@0.3.0-1": "04t6A000002zgKSQAY"
+  }
 }
