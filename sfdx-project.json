@@ -13,7 +13,7 @@
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "48.0",
+  "sourceApiVersion": "47.0",
   "packageAliases": {
     "electronBranding": "0Ho6A000000k9ddSAA",
     "electronBranding@0.2.0-1": "04t6A000002zgJ0QAI",
